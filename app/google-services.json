@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472245033211",
+    "firebase_url": "https://meuscontatosplusviacepgustavo.firebaseio.com",
+    "project_id": "meuscontatosplusviacepgustavo",
+    "storage_bucket": "meuscontatosplusviacepgustavo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472245033211:android:dd5cd8b78fdf08a9",
+        "android_client_info": {
+          "package_name": "com.gustavo.contatosdeemergencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472245033211-6lj1a2sfp7sth6rru7pamr2favegj2pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gustavo.contatosdeemergencia",
+            "certificate_hash": "de3550a3f69b9c0cbd11d5f9f3eababcb67360a3"
+          }
+        },
+        {
+          "client_id": "472245033211-t9ojfr5f6opogcf2p6ov928ml4s7hn58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhdHbXQCSaYN_eIIn_6CPf5QPgTNq14Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472245033211-t9ojfr5f6opogcf2p6ov928ml4s7hn58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
